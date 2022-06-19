@@ -1,4 +1,4 @@
-package com.codewithevans.crypto.ui.theme
+package com.codewithevans.crypto.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

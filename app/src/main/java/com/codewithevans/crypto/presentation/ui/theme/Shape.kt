@@ -1,4 +1,4 @@
-package com.codewithevans.crypto.ui.theme
+package com.codewithevans.crypto.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
